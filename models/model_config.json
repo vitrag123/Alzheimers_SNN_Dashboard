@@ -1,0 +1,16 @@
+{
+    "model_name": "Alzheimer SNN",
+    "input_features": 171,
+    "hidden_layer_1": 128,
+    "hidden_layer_2": 64,
+    "output_classes": 2,
+    "num_steps": 20,
+    "class_mapping": {
+        "0": "Healthy",
+        "1": "Alzheimer's"
+    },
+    "decision_threshold": 0.5,
+    "sampling_frequency": 500,
+    "window_seconds": 2,
+    "channels": 19
+}

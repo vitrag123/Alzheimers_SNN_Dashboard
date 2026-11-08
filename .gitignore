@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+.DS_Store
+*.log
+data/
+*.edf
+*.set
+*.fif
+*.npy
+*.npz
