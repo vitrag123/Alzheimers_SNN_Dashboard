@@ -78,7 +78,7 @@ git push -u origin main
 
 Deploy the GitHub repository with `app.py` as the main file. Make sure the trained model files are available to the deployed app. Do not commit real patient EEG or personal health information to a public repository.
 
-## Current prototype limitations
+## Current prototype 
 
 - Heart rate and GSR are manually entered; physical sensors are not connected.
 - Restroom reminders use manually entered elapsed time.
